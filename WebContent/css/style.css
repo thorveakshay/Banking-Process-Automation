@@ -1,0 +1,95 @@
+#additionaliframe
+{
+	width:70%;
+	height:150px;
+	
+ 	scroll:auto;
+}
+
+#astric{
+color:red;
+}
+#middiv
+{
+	font-size:15px; text-align:left;
+<<<<<<< .mine
+=======
+	margin-left:230px;
+
+>>>>>>> .r411370
+}
+
+#resultdiv
+{
+	margin-top:20px;
+	margin-left:250px;
+	
+}
+#accountdiv
+{
+	margin-top:20px;
+	margin-left:240px;
+}
+#midtitle
+{
+background-color:#5599a7; height:50px;
+margin-left:230px;
+color: white;
+}
+#login
+{
+	cellpadding:10px;
+	
+}
+#button
+{
+
+color:white;border-width:0px;background-color:#5699A7;width:80px;
+
+
+}
+#rel
+{
+font-size:15px;
+text-align:left;
+
+height:30px;
+
+}
+
+
+
+#alert
+{
+	font-size:12px;
+	color:red;
+}
+
+#labels
+{
+	font-size:15px;
+}
+
+#button1
+{
+
+color:white;border-width:0px;background-color:#5699A7;width:80px;
+}
+
+#buttondiv
+{
+	margin-left:250px;
+}
+#rmdiv
+{
+font-size:15px; text-align:left;
+margin-left:225px;
+
+}
+#alert
+{
+background: #f1f0ef;
+padding: 10px 23px 10px 23px;
+margin-bottom:3px;
+line-height:1.8em;	
+}

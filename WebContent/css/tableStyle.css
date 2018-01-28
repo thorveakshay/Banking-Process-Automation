@@ -1,0 +1,35 @@
+#result td 
+{
+	font-size:15px; 
+	border:1px solid ;
+	margin-left:250px;
+	
+ padding-left: 10px;
+ padding-right: 10px;
+}
+
+#result th
+{
+	background-color:#5599a7;
+	font-size:15px; 
+	border:1px solid;
+	padding-top:10px;
+	padding-bottom:10px;
+	
+	margin-left:250px;
+	color:white;
+	
+ padding-left: 10px;
+ padding-right: 10px;
+}
+
+#middleButton
+{
+	margin-left:250px;
+	margin-top:20px;
+}
+
+#info
+{
+	margin-left:60px;
+}
